@@ -1,0 +1,18 @@
+header{
+	height: 50px;
+	background: green;
+}
+#headerPic{
+	width: 100%;
+	height: auto;
+	max-height: 100%;
+	max-width: 100%;
+}
+article{
+		height: 200px;
+		background: yellow
+}
+aside{
+	height: 200px;
+	background: red;
+}
